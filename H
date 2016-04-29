@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Carla Marina Ferreira</title>
+	</head>
+	<body>
+       <img src ="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/11049617_10206624736956766_54111939800288157_n.jpg?oh=93bb2dcbbb02a98633d305641685ea1b&oe=579AE706&__gda__=1471824432_a9e662b0ea38afd08ce52f2db2fa0aa2"/>
+       <p style="color: Pink; font-size:30px; font-family: Tahoma"> Tengo 28 años, soy mujer y nací en Adrogue. </p>
+          <ul>
+              <li Style="color:Blue ; font-family:Arial"> Intereses </li>
+                  <ol><strong>
+                     <li>Leer</li>
+                     <li>Pasear a mi perro</li>
+                     <li>Nadar</li>
+                     <li>Tocar el piano</li>
+                     <li>Cantar</li>
+                 </strong> </ol>
+              <li Style="color:Blue ; font-family:Arial"> Trabajos</li>
+                  <ul><strong>
+                      <li> Asistente de perito liquidador</li>
+                      <li> Secretaria de ONG </li>
+                      <li>Capacitadora de idioma (español-inglés)</li>
+                  </strong></ul> 
+              <li Style="color:Blue ; font-family:Arial"> Frases favoritas</li>
+                  <ol> 
+                      <li><em>“He aquí mi secreto, que no puede ser más simple: solo con el corazón se puede ver bien; lo esencial es invisible a los ojos.”</em></li>
+                      <li><em>“Caminando en línea recta no puede uno llegar muy lejos.”</em></li> 
+                     <li><em>"Nada es imposible para Dios"</em></li>
+                  </ol>
+              <li Style="color:Blue ; font-family:Arial"> Lugares donde viví</li>
+                  <ul><strong>
+                      <li> Longchamps</li>
+                      <li>Guernica</li>
+                      <li>Glew</li>
+                      <li>La serena</li>
+                      <li>La ligua</li>
+                      <li>Peñablanca</li>
+                      <li>San Francisco de Limache</li>
+                      <li> Quillota</li>
+                      <li>Villa Alemana</li>
+                      <li>Numancia</li>
+                      <li>Boedo</li>
+                    </strong>
+          </ul>
+	</body>
+</html>
